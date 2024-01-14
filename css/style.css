@@ -1,0 +1,28 @@
+body {
+    background-color: black !important;
+    color: white !important;
+    background-image: url(../img/background.jpg);
+    background-size: cover;
+}
+
+.row {
+    height: 100vh !important;
+}
+
+.cuadrado {
+    margin: 0 auto;
+    padding: 2vh;
+    margin: 0 5vh;
+    border: 4px solid white;
+    height: 30vh !important;
+}
+
+
+ul {
+    list-style: none;
+    padding: 0 !important;
+}
+
+.input {
+    background-color: transparent;
+}
